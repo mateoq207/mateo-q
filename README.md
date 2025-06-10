@@ -1,4 +1,5 @@
-# ¿Qué es esto?
+# proyecto web
+#tematica
 
 Esto es una base de datos de personas que hice con PHP, MySQL y Bootstrap. Lo que ves en la pantalla es una lista de personas con sus datos, y abajo hay un formulario para agregar una nueva persona.
 
