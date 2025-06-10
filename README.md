@@ -24,3 +24,4 @@ Ahí lee los datos de la tabla "personas" y los muestra en una tabla con colores
 Si completás el formulario de abajo y hacés clic en "Insertar Persona", la persona nueva se guarda en la base de datos.
 
 Después, se actualiza la lista automáticamente y ya aparece la nueva persona en la tabla.
+![Captura](https://github.com/user-attachments/assets/a57753cc-4b61-4846-a58f-87d526d773c2)
